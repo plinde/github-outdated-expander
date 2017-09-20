@@ -5,6 +5,7 @@
 // @description  Script for automatically expanding all GitHub PR "Show Outdated" tabs
 // @author       plinde
 // @match        https://github.com/*/*/pull/*
+// @match        https://github.com/*/*/pull/*#*
 // @grant        none
 // ==/UserScript==
 
